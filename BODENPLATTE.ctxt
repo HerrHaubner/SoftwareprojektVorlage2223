@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BODENPLATTE
+comment0.text=\r\n\ Klasse\ zur\ Beschreibung\ eines\ Bodens\r\n\ \r\n\ @author\ Klaus\ Reinold\r\n\ @version\ 1.0\r\n
+comment1.params=anzahlElemente\ startX\ startY
+comment1.target=BODENPLATTE(int,\ double,\ double)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Boden\r\n\ \r\n\ Das\ "Wiese.png"\ hat\ eine\ Breite\ von\ ca.\ 2.13\r\n
+numComments=2

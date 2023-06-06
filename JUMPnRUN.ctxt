@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JUMPnRUN
+comment1.params=
+comment1.target=JUMPnRUN()
+comment2.params=taste
+comment2.target=void\ tasteReagieren(int)
+comment3.params=s
+comment3.target=void\ bildAktualisierungReagieren(double)
+comment4.params=
+comment4.target=void\ setzePositionen()
+numComments=5

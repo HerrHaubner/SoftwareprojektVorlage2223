@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=MausRadReagierbar
+comment0.text=\r\n\ Interface\ MausRadReagierbar.\ Fordert\ auf\ zum\ Ueberschreiben\ der\ Methode\ mausRadReagieren(\ int\ zaehler\ ).\r\n\ Die\ Methode\ wird\ automatisch\ beim\ Betaetigen\ des\ Mausrads\ aufgerufen.\ \r\n\ Ihr\ wird\ eine\ ganze\ Zahl\ uebergeben,\ die\ Auskunft\ ueber\ die\ Drehrichtung\ gibt.\r\n\ \r\n\ @author\ \ \ \ \ \ mike_gans@yahoo.de\ \ and\ michael\ andonie\r\n\ \r\n\ @version\ \ \ \ \ 4.0\ (2020-01-04)\r\n
+numComments=1

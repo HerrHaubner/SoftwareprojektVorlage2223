@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=TastenReagierbar
+comment0.text=\r\n\ Interface\ TastenReagierbar.\ \r\n\ Fordert\ auf\ zum\ ueberschreiben\ der\ Methode\ tasteReagieren(\ int\ tastenCode\ ).\r\n\ Sie\ wird\ automatisch\ bei\ jedem\ Tastendruck\ des\ Keyboards\ aufgerufen.\ \r\n\ Ihr\ wird\ automatisch\ der\ Code\ der\ gerueckten\ Taste\ uebergeben.\r\n\ Siehe\ Klasse\ TASTE\ \!\!\!\r\n\ \r\n\ @author\ \ \ \ \ \ mike_gans@yahoo.de\ \ and\ michael\ andonie\r\n\ \r\n\ @version\ \ \ \ \ 4.0\ (2020-01-04)\r\n
+numComments=1

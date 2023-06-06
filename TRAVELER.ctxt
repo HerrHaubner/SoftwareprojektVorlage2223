@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TRAVELER
+comment1.params=
+comment1.target=TRAVELER()
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=taste
+comment3.target=void\ tasteReagieren(int)
+numComments=4

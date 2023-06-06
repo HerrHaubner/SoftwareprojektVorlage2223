@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KOLLISIONEN
+comment1.params=
+comment1.target=KOLLISIONEN()
+comment2.params=x\ y
+comment2.target=void\ klickReagieren(double,\ double)
+comment3.params=
+comment3.target=void\ randErzeugen()
+numComments=4

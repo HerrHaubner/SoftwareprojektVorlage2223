@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=BildAktualisierungReagierbar
+comment0.text=\r\n\ Interface\ BildAktualisierungReagierbar.\ Fordert\ zum\ Ueberschreiben\ der\ Methode\ bildAktualisierungReagieren(double\ zeitIntervall)\ auf.\r\n\ Sie\ wird\ nach\ jedem\ Frame-Update\ automatisch\ aufgerufen.\ \r\n\ Ihr\ wird\ automatisch\ as\ Zeitintervall\ (in\ Sekunden)\ seit\ dem\ letzten\ Frame-Update\ uebergeben.\r\n\ Das\ Zeitintervall\ kann\ genutzt\ werden,\ um\ exakte\ Physik\ zu\ betreiben\:\ \r\n\ z.B.\ verschiebenUm(\ zeitIntervall*nenneGeschwindigkeitX()\ ,\ zeitIntervall*nenneGeschwindigkeitY()\ )\r\n\ \r\n\ @author\ \ \ \ \ \ mike_gans@yahoo.de\ \ and\ michael\ andonie\r\n\ \r\n\ @version\ \ \ \ \ 4.0\ (2020-01-04)\r\n
+numComments=1

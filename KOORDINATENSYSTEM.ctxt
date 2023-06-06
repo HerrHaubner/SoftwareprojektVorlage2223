@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=KOORDINATENSYSTEM
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ KOORDINATENSYSTEM\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=KOORDINATENSYSTEM()
+comment2.params=sichtbar
+comment2.target=void\ setzeSichtbar(boolean)
+comment3.params=
+comment3.target=void\ einblenden()
+comment4.params=
+comment4.target=void\ ausblenden()
+numComments=5

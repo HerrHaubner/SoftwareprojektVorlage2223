@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=KollisionsReagierbar
+comment0.text=\r\n\ Interface\ KollisionReagierbar.\ Fordert\ auf\ zum\ Ueberschreiben\ der\ Methode\ 'boolean\ kollisionReagieren(\ EduActor\ ea\ )'.\ \r\n\ Die\ Methode\ wird\ automatisch\ aufgerufen,\ sobald\ ein\ anderes\ Objekt\ beruehrt\ wird.\ \r\n\ Ihr\ wird\ automatisch\ eine\ Referenz\ auf\ das\ beruehrte\ Objekt\ uebergeben.\r\n\ Dieses\ Interface\ sollte\ nicht\ in\ SPIEL\ (bzw.\ einer\ Unterklasse)\ \r\n\ sondern\ in\ einer\ Unterklasse\ von\ EduActor\ implementiert\ werden.\r\n\ \!\!\!\ Beachte\ hierzu\ die\ von\ EduActor\ geerbten\ Methoden\ registriereKollisionsReagierbar(...)\ \!\!\!\r\n\ \r\n\ @author\ \ \ \ \ \ Mike\ Ganshorn\ \ \ (Mike_Gans@yahoo.de)\r\n\ \r\n\ @version\ \ \ \ \ 4.0\ (2020-01-04)\r\n
+numComments=1

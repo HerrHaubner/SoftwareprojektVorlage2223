@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=MausKlickReagierbar
+comment0.text=\r\n\ Interface\ MausKlickReagierbar.\ Fordert\ auf\ zum\ Ueberschreiben\ der\ Methode\ mausKlickReagieren(\ double\ x\ ,\ double\ y\ ).\ \r\n\ Die\ Methode\ wird\ automatisch\ bei\ jedem\ Mausklick\ aufgerufen.\ \r\n\ Ihr\ werden\ automatisch\ die\ Koordinaten\ des\ Mausklicks\ uebergeben.\r\n\ \r\n\ @author\ \ \ \ \ \ mike_gans@yahoo.de\ \ and\ michael\ andonie\r\n\ \r\n\ @version\ \ \ \ \ 4.0\ (2020-01-04)\r\n
+numComments=1

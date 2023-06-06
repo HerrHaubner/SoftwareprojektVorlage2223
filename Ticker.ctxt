@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Ticker
+comment0.text=\r\n\ Interface\ Ticker.\ Fordert\ zum\ Ueberschreiben\ der\ Methode\ tick()\ auf.\r\n\ Der\ Ticker\ muss\ erst\ gestartet\ werden\ mit\ der\ Methode\ starteTickerNeu(\ double\ sekunden\ ).\r\n\ Die\ Methode\ tick()\ wird\ von\ nun\ an\ regelmaessig\ automatisch\ aufgerufen.\ \r\n\ Der\ Ticker\ kann\ mit\ stoppeTicker()\ gestartet\ werden.\r\n\ Schnellere\ Ticker\ als\ 0.05\ Sekunden\ sind\ nicht\ sinnvoll\ \!\!\!\ (aber\ moeglich)\r\n\ Anstatt\ dessen\ sollte\ man\ dann\ BildAktualisierungReagierbar\ nutzen\ \!\!\!\r\n\ \r\n\ @author\ \ \ \ \ \ mike_gans@yahoo.de\ \ and\ michael\ andonie\r\n\ \r\n\ @version\ \ \ \ \ 4.0\ (2020-01-04)\r\n
+numComments=1
